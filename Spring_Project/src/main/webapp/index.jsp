@@ -14,6 +14,7 @@
 			<li><a href="dependency.do">test</a></li>
 			<li><a href="xmlDI.do">spring</a></li>
 			<p>branch sooyeong_test</p>
+			<p>branch namgoong_test</p>
 		</ol>
 
 
