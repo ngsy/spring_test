@@ -6,7 +6,7 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<body>
+<body> 
 
 		<ol>
 		
@@ -15,6 +15,7 @@
 			<li><a href="xmlDI.do">spring</a></li>
 			<p>branch sooyeong_test</p>
 			<p>branch namgoong_test</p>
+			<p>rebase_Test</p>
 		</ol>
 
 
